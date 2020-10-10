@@ -1,0 +1,5 @@
+input_number = input("Give me a number. I will tell you the square value: ")
+# print(type(input_number))
+# int(), str(), float(), bool()
+square_value = pow(int(input_number), 2)
+print(input_number + " square value is " + str(square_value))
