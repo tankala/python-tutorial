@@ -1,5 +1,3 @@
-# python-tutorial
-python tutorial
+# python-tutorials
 
-## YouTube playlist
-https://www.youtube.com/playlist?list=PLg_dCA7cq-FN5PMjtdr9AB0XPHUwwRmVm
+python tutorial for beginners in telugu -> https://www.youtube.com/playlist?list=PLg_dCA7cq-FN5PMjtdr9AB0XPHUwwRmVm
