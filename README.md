@@ -4,4 +4,4 @@ python tutorial for beginners in telugu playlist -> https://www.youtube.com/play
 
 python tutorial for beginners video -> https://www.youtube.com/watch?v=ADz8AFc_5ME
 
-Git & GitHub Tutorial for Beginners -> https://www.youtube.com/watch?v=YLs6lgbo3XA&t=10s
+git & gitHub Tutorial for beginners video -> https://www.youtube.com/watch?v=YLs6lgbo3XA&t=10s
